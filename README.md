@@ -8,12 +8,12 @@ Building a forecasting model to estimate store item demand is difficult due to n
 2)The objective of this competition is to predict 3 months of item-level sales data at different store locations.
 
 
-#File descriptions
+# File descriptions
 train.csv - Training data
 test.csv - Test data (Note: the Public/Private split is time based)
 sample_submission.csv - a sample submission file in the correct format
 
-#Data fields
+# Data fields
 date - Date of the sale data. There are no holiday effects or store closures.
 store - Store ID
 item - Item ID
